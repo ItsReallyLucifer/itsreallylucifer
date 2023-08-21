@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><img src="Lucifer.png">
+<h1 align="center"><img src="twitterBanner2.jpg">
 
 
 <h3 align="center">I am a full-stack software engineer interested in creating web applications that can impact businesses on a global scale</h3>
