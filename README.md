@@ -95,7 +95,7 @@
   <a href="https://github.com/ItsReallyLucifer/PortfolioMain" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=58c558&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://mazebuer.com/" target="_blank">
+  <a href="https://itsreallylucifer.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=58c558&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
