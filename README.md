@@ -20,7 +20,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsreallylucifer&show_icons=true&locale=en&layout=compact" alt="itsreallylucifer" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsreallylucifer&show_icons=true&locale=en" alt="itsreallylucifer"></p>
+
   
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsreallylucifer&" alt="itsreallylucifer" /></p>
 <div>
