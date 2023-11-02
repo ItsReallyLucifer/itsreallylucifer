@@ -28,6 +28,45 @@
 <table bordercolor="#ff69b4">
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">LuxEstate Marketplace</h3>
+        <br />
+        <a target="_blank" href="https://startrekspecies.netlify.app/">
+            <img src="https://github.com/ItsReallyLucifer/PortfolioMain/blob/d867cc8b6ad39361ccd040c5b92bfbe761d0a50f/devfolio-master/img/LuxEstate.gif" width="100%" alt="LuxEstate"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/ItsReallyLucifer/LuxEstate" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=58c558&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://luxestate.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=58c558&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React.js | Tailwind CSS | JavaScript | Node.js | MongoDB</strong> - List and manage your properties with ease using LuxEstate! User-friendly marketplace to list & find homes and contact owners directly.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">LumenAI</h3>
+        <br />
+      <a target="_blank" href="https://lumenai.pro/">
+            <img src="https://github.com/ItsReallyLucifer/PortfolioMain/blob/d867cc8b6ad39361ccd040c5b92bfbe761d0a50f/devfolio-master/img/LumenAI2.gif" width="100%"  alt="LumenAI"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/ItsReallyLucifer/LumenAI" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=58c558&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://lumenai.pro/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=58c558&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React.js | JavaScript | CSS | OpenAI API </strong> - Intuitive AI language model interface platform utilizing the power of OpenAI's text-davinci-003 model.</p>
+    </td>
+  </tr>
+  
+   <tr>
+    <td width="50%" valign="top">
       <h3 align="center">Star Trek Species Guide</h3>
         <br />
         <a target="_blank" href="https://startrekspecies.netlify.app/">
@@ -62,44 +101,6 @@
   </a>
       </p>
         <p><strong>HTML | CSS | JavaScript | Calendly API </strong> - Luxury Real Estate landing page with dynamic scrolling, seamless transitions, captivating photos, and Calendly booking.</p>
-    </td>
-  </tr>
-  
-   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Space Exploration for kids</h3>
-      <br />
-        <a target="_blank" href="https://nasaexplorationfun.netlify.app/">
-          <img src="https://github.com/ItsReallyLucifer/NasaExploration/blob/bae3743f7c9e4775fde49961716ba59020fff60c/img/nasafun1.gif" width="100%" alt="Space exploration"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/ItsReallyLucifer/NasaExploration" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=58c558&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://nasaexplorationfun.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=58c558&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML | CSS | JavaScript | NASA RestAPI</strong> - Discover an engaging and educational space exploration site for kids with a search-by-date NASA API gallery.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">ItsReallyLucifer.com</h3>
-        <br />
-        <a target="_blank" href="https://itsreallylucifer.com/">
-          <img src="https://github.com/ItsReallyLucifer/PortfolioMain/blob/a23d8e721bd4e055aef715bf3c6ec7816381bffe/devfolio-master/luciferPort.gif" width="100%" alt="Portfolio"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/ItsReallyLucifer/PortfolioMain" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=58c558&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://itsreallylucifer.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=58c558&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML, CSS, & Javascript</strong> - Portfolio Site which includes links to my projects, socials, and ways to get in contact with me.</p>
     </td>
   </tr>
 </table>
