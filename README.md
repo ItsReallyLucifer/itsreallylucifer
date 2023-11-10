@@ -30,7 +30,7 @@
     <td width="50%" valign="top">
       <h3 align="center">LuxEstate Marketplace</h3>
         <br />
-        <a target="_blank" href="https://startrekspecies.netlify.app/">
+        <a target="_blank" href="https://luxestate.onrender.com/">
             <img src="https://github.com/ItsReallyLucifer/PortfolioMain/blob/d867cc8b6ad39361ccd040c5b92bfbe761d0a50f/devfolio-master/img/LuxEstate.gif" width="100%" alt="LuxEstate"/>
         </a>
         <br />
