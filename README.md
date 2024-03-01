@@ -63,22 +63,22 @@
   
    <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Star Trek Species Guide</h3>
+      <h3 align="center">RepoHaven</h3>
         <br />
-        <a target="_blank" href="https://startrekspecies.netlify.app/">
-            <img src="https://github.com/ItsReallyLucifer/StarTrekGuide/blob/a10a11e9ceb0519df47908b0197065104f960eb9/starTrekgif1.gif" width="100%" alt="Star Trek"/>
+        <a target="_blank" href="https://repohaven.com/">
+            <img src="RepoHaven2.gif" width="100%" alt="RepoHaven"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/ItsReallyLucifer/StarTrekGuide" target="_blank">
+  <a href="https://github.com/RepoHaven" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=58c558&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://startrekspecies.netlify.app/" target="_blank">
+  <a href="https://repohaven.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=58c558&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML | CSS | JavaScript | RestAPI</strong> - Embark on an exhilarating journey through Star Trek's vibrant extraterrestrial life with this Alien Species Guide!</p>
+        <p><strong>Code management | version control | team collaboration </strong> - Founded and managed RepoHaven; a platform that aims to provide new developers with the experience of working with a group to build Full-Stack web applications.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Sterling Lane</h3>
